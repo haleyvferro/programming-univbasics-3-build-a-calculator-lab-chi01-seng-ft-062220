@@ -1,5 +1,14 @@
+#def a_method(a,b)
+  #puts "I got #{a}"
+  #puts "I got #{b}"
+  #sum = a + b
+  #puts "I got #{sum}"
+  #sum
+#end
+
 def addition(num1, num2)
-puts 
+sum = num1 + num2
+sum
 end
 
 def subtraction(num1, num2)
